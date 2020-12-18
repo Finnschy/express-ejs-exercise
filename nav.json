@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Home",
+        "url": "/",
+        "render": "index"
+    },
+    {
+        "name": "Team",
+        "url": "/team",
+        "render": "team"
+    },
+    {
+        "name": "About",
+        "url": "/about",
+        "render": "about"
+    },
+    {
+        "name": "Contact",
+        "url": "/contact",
+        "render": "contact"
+    },
+    {
+        "name": "Gallery",
+        "url": "/gallery",
+        "render": "gallery"
+    }
+]
